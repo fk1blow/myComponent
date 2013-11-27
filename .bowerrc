@@ -1,0 +1,10 @@
+{
+    "directory": "app/bower_components",
+    "registry": {
+        "register": "http://localhost:3000",
+        "search": [
+            "http://localhost:3000",
+            "http://bower.herokuapp.com"
+        ]
+    }
+}
