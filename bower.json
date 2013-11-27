@@ -18,8 +18,8 @@
     "angular-scenario": "~1.2.0"
   },
   "example": {
-      "html": "index.html",
-      "css": "style.css",
-      "js": "app.js"
+      "html": "example/index.html",
+      "css": "example/style.css",
+      "js": "example/app.js"
   }
 }
