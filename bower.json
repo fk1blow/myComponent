@@ -2,7 +2,7 @@
   "name": "myComponent",
   "version": "0.0.1",
   "author": "arcade",
-  "dependencies": {}
+  "dependencies": {},
   "example": {
       "js": "example/main.js",
       "html": "example/index.html"
