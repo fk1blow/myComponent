@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "arcade",
   "dependencies": {},
-  "cat": "Formss",
+  "category": "Formss",
   "example": {
       "js": "example/main.js",
       "html": "example/index.html"
