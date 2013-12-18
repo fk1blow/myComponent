@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "author": "arcade",
   "dependencies": {},
+  "category": "Forms",
   "example": {
       "js": "example/main.js",
       "html": "example/index.html"
